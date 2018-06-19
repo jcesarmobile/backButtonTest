@@ -1,0 +1,10 @@
+platforms/
+plugins/
+node_modules/
+res/
+typings/
+hooks/
+.vscode/
+jsconfig.json
+package-lock.json
+.npmignore
